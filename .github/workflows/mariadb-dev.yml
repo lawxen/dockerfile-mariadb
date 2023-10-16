@@ -1,4 +1,4 @@
-name: mariad-dev
+name: mariadb-dev
 
 on: workflow_dispatch
 
